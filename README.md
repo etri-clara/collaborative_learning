@@ -1,2 +1,2 @@
 # collaborative_learning
-협업학습기술
+협업학습기술(ETRI)
